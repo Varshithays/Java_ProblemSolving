@@ -1,10 +1,11 @@
+ //MINI PROJECT
 package javapracticeprograms;
 import java.util.Scanner;
 
 
-public class OOPS {
+public class Random{
    public static void main(String[] args) {
-       //MINI PROJECT
+      
        Scanner sc = new Scanner(System.in);
        int myNumber = (int)(Math.random()*10);
        int userNumber = 0;
