@@ -68,7 +68,6 @@ class Anagram {
 		String str1 = "gram";
 		String str2 = "arm";
 
-		// Function call
 		if (isAnagram(str1, str2))
 			System.out.print("The two strings are "
 							+ "anagram of each other");
