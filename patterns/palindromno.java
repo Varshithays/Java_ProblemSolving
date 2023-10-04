@@ -1,6 +1,6 @@
 // Java Program to print pattern
 package Java_ProblemSolving.patterns;
-// Palindrome triangle
+
 import java.util.*;
 
 public class palindromno{
