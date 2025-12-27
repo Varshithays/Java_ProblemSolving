@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ReverseArray" type="Java Scratch" singleton="false">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Array/ReverseArray.java" />
+    <shortenClasspath name="CLASSPATH_FILE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
